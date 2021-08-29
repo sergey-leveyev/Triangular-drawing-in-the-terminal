@@ -1,0 +1,14 @@
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\bin\Debug\netcoreapp3.1\lessonCSharp.exe
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\bin\Debug\netcoreapp3.1\lessonCSharp.deps.json
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\bin\Debug\netcoreapp3.1\lessonCSharp.runtimeconfig.json
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\bin\Debug\netcoreapp3.1\lessonCSharp.runtimeconfig.dev.json
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\bin\Debug\netcoreapp3.1\lessonCSharp.dll
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\bin\Debug\netcoreapp3.1\lessonCSharp.pdb
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\obj\Debug\netcoreapp3.1\lessonCSharp.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\obj\Debug\netcoreapp3.1\lessonCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\obj\Debug\netcoreapp3.1\lessonCSharp.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\obj\Debug\netcoreapp3.1\lessonCSharp.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\obj\Debug\netcoreapp3.1\lessonCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\obj\Debug\netcoreapp3.1\lessonCSharp.dll
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\obj\Debug\netcoreapp3.1\lessonCSharp.pdb
+C:\Users\Sergey\Desktop\lessonCSharp\lessonCSharp\obj\Debug\netcoreapp3.1\lessonCSharp.genruntimeconfig.cache
